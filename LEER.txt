@@ -1,0 +1,8 @@
+# Bob-Esponja-CSS
+Este es el repositorio contenedor del codigo de mi bob esponja 
+
+*PUEDE QUE LAS IMAGENES NO SE VEAN EN LA PAGINA WEB*
+
+-crear carpeta raiz (pagina 2)
+-crear carpeta img 
+-para ver las imagenes del codigo, ya que estan como url("/pagina 2/img/...") 
